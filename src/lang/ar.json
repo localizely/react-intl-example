@@ -1,0 +1,9 @@
+{
+  "message.simple": "رسالة بسيطة.",
+  "message.argument": "مرحبًا {name}! 👋",
+  "message.plural": "{count, plural, zero {لا توجد عناصر} one {# بند} two {# بنود} few {# عناصر} many {# بندا} other {# قطعة}}",
+  "message.select": "{gender, select, male {السيد} female {السيدة} other {المستعمل}}",
+  "message.text-format": "مرحبًا <b>John</b>!",
+  "message.number-format": "عدد مهيأ: {num, number, ::K}",
+  "message.currency-format": "عملة منسقة: {amount, number, ::currency/USD}"
+}
