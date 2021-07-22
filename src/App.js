@@ -125,6 +125,11 @@ function App({ locale, direction, onLocaleChange }) {
         <br />
         {intl.formatList(["foo", "bar", "baz"], { type: "conjunction" })}
       </div>
+
+      <div style={{ textAlign: "center", marginTop: 60, marginBottom: 20 }}>
+        For more details, please see the full <a href="https://localizely.com/blog/react-intl-tutorial/"> post</a> on
+        Localizely.
+      </div>
     </div>
   );
 }
