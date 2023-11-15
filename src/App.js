@@ -47,7 +47,9 @@ function LocalizationWrapper() {
   const [locale, setLocale] = useState(initLocale);
   const [messages, setMessages] = useState(null);
 
-  useEffect(() => loadMessages(locale).then(setMessages), [locale]);
+  useEffect(() => {
+    loadMessages(locale).then(setMessages);
+  }, [locale]);
 
   return messages ? (
     <IntlProvider locale={locale} messages={messages}>
