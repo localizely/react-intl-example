@@ -48,7 +48,7 @@ function LocalizationWrapper() {
   const [messages, setMessages] = useState(null);
 
   useEffect(() => {
-    loadMessages(locale).then(setMessages);
+    loadMessages(locale).then((data) => setMessages(data.default));
   }, [locale]);
 
   return messages ? (

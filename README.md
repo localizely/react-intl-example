@@ -27,4 +27,4 @@ For more details, please see the full post: [React-Intl tutorial](https://locali
 - `git clone`
 - `cd react-intl-example`
 - `npm install`
-- `npm start`
+- `npm run dev`
