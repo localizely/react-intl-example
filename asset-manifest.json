@@ -1,28 +1,18 @@
 {
   "files": {
-    "static/js/0.d9c1a70c.chunk.js": "/react-intl-example/static/js/0.d9c1a70c.chunk.js",
-    "static/js/0.d9c1a70c.chunk.js.map": "/react-intl-example/static/js/0.d9c1a70c.chunk.js.map",
-    "main.css": "/react-intl-example/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/react-intl-example/static/js/main.58539ffd.chunk.js",
-    "main.js.map": "/react-intl-example/static/js/main.58539ffd.chunk.js.map",
-    "runtime-main.js": "/react-intl-example/static/js/runtime-main.d61a3d78.js",
-    "runtime-main.js.map": "/react-intl-example/static/js/runtime-main.d61a3d78.js.map",
-    "static/js/3.3971bf4c.chunk.js": "/react-intl-example/static/js/3.3971bf4c.chunk.js",
-    "static/js/3.3971bf4c.chunk.js.map": "/react-intl-example/static/js/3.3971bf4c.chunk.js.map",
-    "static/js/4.c49bcf67.chunk.js": "/react-intl-example/static/js/4.c49bcf67.chunk.js",
-    "static/js/4.c49bcf67.chunk.js.map": "/react-intl-example/static/js/4.c49bcf67.chunk.js.map",
-    "static/js/5.c06b21ed.chunk.js": "/react-intl-example/static/js/5.c06b21ed.chunk.js",
-    "static/js/5.c06b21ed.chunk.js.map": "/react-intl-example/static/js/5.c06b21ed.chunk.js.map",
-    "static/js/6.7054d8f8.chunk.js": "/react-intl-example/static/js/6.7054d8f8.chunk.js",
-    "static/js/6.7054d8f8.chunk.js.map": "/react-intl-example/static/js/6.7054d8f8.chunk.js.map",
+    "main.css": "/react-intl-example/static/css/main.e6c13ad2.css",
+    "main.js": "/react-intl-example/static/js/main.e07b4587.js",
+    "static/js/933.d6a5b091.chunk.js": "/react-intl-example/static/js/933.d6a5b091.chunk.js",
+    "static/js/7.aabcea38.chunk.js": "/react-intl-example/static/js/7.aabcea38.chunk.js",
+    "static/js/692.b196e3b9.chunk.js": "/react-intl-example/static/js/692.b196e3b9.chunk.js",
+    "static/js/787.0c15c090.chunk.js": "/react-intl-example/static/js/787.0c15c090.chunk.js",
     "index.html": "/react-intl-example/index.html",
-    "static/css/main.2ae47eeb.chunk.css.map": "/react-intl-example/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/3.3971bf4c.chunk.js.LICENSE.txt": "/react-intl-example/static/js/3.3971bf4c.chunk.js.LICENSE.txt"
+    "main.e6c13ad2.css.map": "/react-intl-example/static/css/main.e6c13ad2.css.map",
+    "main.e07b4587.js.map": "/react-intl-example/static/js/main.e07b4587.js.map",
+    "787.0c15c090.chunk.js.map": "/react-intl-example/static/js/787.0c15c090.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d61a3d78.js",
-    "static/js/3.3971bf4c.chunk.js",
-    "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.58539ffd.chunk.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e07b4587.js"
   ]
 }
